@@ -95,7 +95,7 @@ System:>
 
 Student:> 4  
 
-[Question 2] Which is whitebox testing technique?
+[Question 2] Which is whitebox testing technique?  
   1.Equivalent Partitioning  
   2. Boundary value testing  
   3. Decision table testing  
