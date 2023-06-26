@@ -1,1 +1,258 @@
-[{"answerkey":"4","option 3":"Load Testing","option 4":"Unit Testing","question":"Which is not part of system testing?","option 1":"Regression Testing","option 2":"Sanity Testing"},{"answerkey":"3","option 3":"Decision table testing","option 4":"Adhoc Testing","question":"Which is white box testing technique?","option 1":"Equivalent Partitioning","option 2":"Boundary value testing"},{"answerkey":"1","option 3":"Monkey Testing","option 4":"Feature Testing","question":"Which testing technique will you apply for root cause analysis?","option 1":"Adhoc Testing","option 2":"Exploratory Testing"},{"answerkey":"4","option 3":"After full system testing","option 4":"After component testing","question":"When integration testing should start?","option 1":"After UI Testing","option 2":"After Monkey Testing"},{"answerkey":"1","option 3":"Comparing actual results to expected results","option 4":"Analyzing the cause of failure","question":"Which of the following is a typical test objective?","option 1":"Preventing defects","option 2":"Repairing defects"},{"answerkey":"4","option 3":"Data flow testing","option 4":"State Transition","question":"What is the blackbox testing strategy?","option 1":"Statement Coverage","option 2":"Branch Coverage"},{"answerkey":"1","option 3":"Stress Testing","option 4":"Volume Testing","question":"To test a system how much load can a system can take is","option 1":"Capacity Testing","option 2":"Load testing"},{"answerkey":"3","option 3":"Both 1 & 2","option 4":"99% bug free product","question":"What is quality?","option 1":"Degree of excellence","option 2":"Conformance to requirements"},{"answerkey":"1","option 3":"Development phase","option 4":"Testing phase","question":"Majority of system errors occur in the ------ phase","option 1":"Requirement phase","option 2":"Analysis and design phase"},{"answerkey":"2","option 3":"Sanity Testing","option 4":"Regression Testing","question":"Which testing is done by developer?","option 1":"Integration Testing","option 2":"Unit Testing"},{"answerkey":"3","option 3":"Gorilla testing","option 4":"Benchmark testing","question":"Which is functional testing?","option 1":"Load testing","option 2":"Security testing"},{"answerkey":"2","option 3":"Both","option 4":"None","question":"System testing is a ____?","option 1":"Testing type","option 2":"Testing level"},{"answerkey":"3","option 3":"Performance testing","option 4":"Both 2 & 3","question":"Which one of the following are non-functional testing methods?","option 1":"System testing","option 2":"Usability testing"},{"answerkey":"4","option 3":"1899, 1900, 2004, 2005","option 4":"1899, 1900, 1901, 2003, 2004, 2005","question":"An input field takes the year of birth between 1900 and 2004. The boundary values for testing this field are:","option 1":"0, 1900, 2004, 2005","option 2":"1900, 2004"},{"answerkey":"2","option 3":"Peer review","option 4":"Inspection","question":"Which is not static testing?","option 1":"Walkthrough","option 2":"Exploratory Testing"},{"answerkey":"3","option 3":"Failure","option 4":"Defect","question":"A deviation from of actual result from the expected result to the end user is called?","option 1":"Fault","option 2":"Bug"},{"answerkey":"2","option 3":"The error","option 4":"The defect","question":"Suppose, you visit the HSC result publishing site to see the result of your younger brother or sister. But you see that site is down. What is the reason?","option 1":"The fault","option 2":"The failure"},{"answerkey":"3","option 3":"Fault","option 4":"Failure","question":"What is missing requirement?","option 1":"Error","option 2":"Bug"},{"answerkey":"4","option 3":"While doing automation","option 4":"Test procedure planning","question":"Test data planning is included when?","option 1":"Equivalent partitioning","option 2":"Boundary value analysis"},{"answerkey":"3","option 3":"Writing Testcase","option 4":"Writing user manual","question":"Which of the following is an example of a task that can be carried out as part of the test process?","option 1":"Requirement Analysis","option 2":"Assign task to QA team"},{"answerkey":"3","option 3":"Re-Test","option 4":"Regression Test","question":"Developer fixed an issue and told you to test the feature. What is the testing type?","option 1":"Feature Test","option 2":"Integration Test"},{"answerkey":"3","option 3":"Both of the above","option 4":"None of the above","question":"Dynamic testing is mainly?","option 1":"Validation Techniques","option 2":"Verification Techniques"},{"answerkey":"4","option 3":"Test strategy","option 4":"Project Initiation Note [PIN]","question":"Which of the following is not part of the Test document?","option 1":"Test Case","option 2":"Requirements Traceability Matrix [RTM]"},{"answerkey":"4","option 3":"Component","option 4":"Maintenance","question":"The _______ testing should include operational tests of the new environment as well as of the changed software","option 1":"System","option 2":"Integration"},{"answerkey":"3","option 3":"7","option 4":"8","question":"How many Principles are there in Software Testing?","option 1":"5","option 2":"6"},{"answerkey":"4","option 3":"Reports bugs","option 4":"Decide which tests should be automated","question":"Which of the following is a not a key task of a tester?","option 1":"Writing test cases","option 2":"Identify bugs"},{"answerkey":"3","option 3":"Unit testing","option 4":"Regression testing","question":"Which type of testing is done by JUnit?","option 1":"System testing","option 2":"Integration testing"},{"answerkey":"2","option 3":"Appium","option 4":"Postman","question":"Which is unit testing platform?","option 1":"testNG","option 2":"JUnit"},{"answerkey":"1","option 3":"Appium","option 4":"nothing","question":"Where POM is mandatory?","option 1":"testNG","option 2":"JUnit"},{"answerkey":"4","option 3":"for nothing","option 4":"1 and 2","question":"Why SQA is important?","option 1":"for business purpose","option 2":"for quality purpose"},{"answerkey":"2","option 3":"Open box testing","option 4":"Clear box testing","question":"White box testing is not called as ________?","option 1":"Glass box testing","option 2":"Closed box testing"},{"answerkey":"4","option 3":"SDLC model","option 4":"Test type","question":"Functional testing is a ________?","option 1":"Test design technique","option 2":"Test level"}]
+[
+  {
+    "answerkey": "4",
+    "option 3": "Load Testing",
+    "option 4": "Unit Testing",
+    "question": "Which is not part of system testing?",
+    "option 1": "Regression Testing",
+    "option 2": "Sanity Testing"
+  },
+  {
+    "answerkey": "3",
+    "option 3": "Decision table testing",
+    "option 4": "Adhoc Testing",
+    "question": "Which is white box testing technique?",
+    "option 1": "Equivalent Partitioning",
+    "option 2": "Boundary value testing"
+  },
+  {
+    "answerkey": "1",
+    "option 3": "Monkey Testing",
+    "option 4": "Feature Testing",
+    "question": "Which testing technique will you apply for root cause analysis?",
+    "option 1": "Adhoc Testing",
+    "option 2": "Exploratory Testing"
+  },
+  {
+    "answerkey": "4",
+    "option 3": "After full system testing",
+    "option 4": "After component testing",
+    "question": "When integration testing should start?",
+    "option 1": "After UI Testing",
+    "option 2": "After Monkey Testing"
+  },
+  {
+    "answerkey": "1",
+    "option 3": "Comparing actual results to expected results",
+    "option 4": "Analyzing the cause of failure",
+    "question": "Which of the following is a typical test objective?",
+    "option 1": "Preventing defects",
+    "option 2": "Repairing defects"
+  },
+  {
+    "answerkey": "4",
+    "option 3": "Data flow testing",
+    "option 4": "State Transition",
+    "question": "What is the blackbox testing strategy?",
+    "option 1": "Statement Coverage",
+    "option 2": "Branch Coverage"
+  },
+  {
+    "answerkey": "1",
+    "option 3": "Stress Testing",
+    "option 4": "Volume Testing",
+    "question": "To test a system how much load can a system can take is",
+    "option 1": "Capacity Testing",
+    "option 2": "Load testing"
+  },
+  {
+    "answerkey": "3",
+    "option 3": "Both 1 & 2",
+    "option 4": "99% bug free product",
+    "question": "What is quality?",
+    "option 1": "Degree of excellence",
+    "option 2": "Conformance to requirements"
+  },
+  {
+    "answerkey": "1",
+    "option 3": "Development phase",
+    "option 4": "Testing phase",
+    "question": "Majority of system errors occur in the ------ phase",
+    "option 1": "Requirement phase",
+    "option 2": "Analysis and design phase"
+  },
+  {
+    "answerkey": "2",
+    "option 3": "Sanity Testing",
+    "option 4": "Regression Testing",
+    "question": "Which testing is done by developer?",
+    "option 1": "Integration Testing",
+    "option 2": "Unit Testing"
+  },
+  {
+    "answerkey": "3",
+    "option 3": "Gorilla testing",
+    "option 4": "Benchmark testing",
+    "question": "Which is functional testing?",
+    "option 1": "Load testing",
+    "option 2": "Security testing"
+  },
+  {
+    "answerkey": "2",
+    "option 3": "Both",
+    "option 4": "None",
+    "question": "System testing is a ____?",
+    "option 1": "Testing type",
+    "option 2": "Testing level"
+  },
+  {
+    "answerkey": "3",
+    "option 3": "Performance testing",
+    "option 4": "Both 2 & 3",
+    "question": "Which one of the following are non-functional testing methods?",
+    "option 1": "System testing",
+    "option 2": "Usability testing"
+  },
+  {
+    "answerkey": "4",
+    "option 3": "1899, 1900, 2004, 2005",
+    "option 4": "1899, 1900, 1901, 2003, 2004, 2005",
+    "question": "An input field takes the year of birth between 1900 and 2004. The boundary values for testing this field are:",
+    "option 1": "0, 1900, 2004, 2005",
+    "option 2": "1900, 2004"
+  },
+  {
+    "answerkey": "2",
+    "option 3": "Peer review",
+    "option 4": "Inspection",
+    "question": "Which is not static testing?",
+    "option 1": "Walkthrough",
+    "option 2": "Exploratory Testing"
+  },
+  {
+    "answerkey": "3",
+    "option 3": "Failure",
+    "option 4": "Defect",
+    "question": "A deviation from of actual result from the expected result to the end user is called?",
+    "option 1": "Fault",
+    "option 2": "Bug"
+  },
+  {
+    "answerkey": "2",
+    "option 3": "The error",
+    "option 4": "The defect",
+    "question": "Suppose, you visit the HSC result publishing site to see the result of your younger brother or sister. But you see that site is down. What is the reason?",
+    "option 1": "The fault",
+    "option 2": "The failure"
+  },
+  {
+    "answerkey": "3",
+    "option 3": "Fault",
+    "option 4": "Failure",
+    "question": "What is missing requirement?",
+    "option 1": "Error",
+    "option 2": "Bug"
+  },
+  {
+    "answerkey": "4",
+    "option 3": "While doing automation",
+    "option 4": "Test procedure planning",
+    "question": "Test data planning is included when?",
+    "option 1": "Equivalent partitioning",
+    "option 2": "Boundary value analysis"
+  },
+  {
+    "answerkey": "3",
+    "option 3": "Writing Testcase",
+    "option 4": "Writing user manual",
+    "question": "Which of the following is an example of a task that can be carried out as part of the test process?",
+    "option 1": "Requirement Analysis",
+    "option 2": "Assign task to QA team"
+  },
+  {
+    "answerkey": "3",
+    "option 3": "Re-Test",
+    "option 4": "Regression Test",
+    "question": "Developer fixed an issue and told you to test the feature. What is the testing type?",
+    "option 1": "Feature Test",
+    "option 2": "Integration Test"
+  },
+  {
+    "answerkey": "3",
+    "option 3": "Both of the above",
+    "option 4": "None of the above",
+    "question": "Dynamic testing is mainly?",
+    "option 1": "Validation Techniques",
+    "option 2": "Verification Techniques"
+  },
+  {
+    "answerkey": "4",
+    "option 3": "Test strategy",
+    "option 4": "Project Initiation Note [PIN]",
+    "question": "Which of the following is not part of the Test document?",
+    "option 1": "Test Case",
+    "option 2": "Requirements Traceability Matrix [RTM]"
+  },
+  {
+    "answerkey": "4",
+    "option 3": "Component",
+    "option 4": "Maintenance",
+    "question": "The _______ testing should include operational tests of the new environment as well as of the changed software",
+    "option 1": "System",
+    "option 2": "Integration"
+  },
+  {
+    "answerkey": "3",
+    "option 3": "7",
+    "option 4": "8",
+    "question": "How many Principles are there in Software Testing?",
+    "option 1": "5",
+    "option 2": "6"
+  },
+  {
+    "answerkey": "4",
+    "option 3": "Reports bugs",
+    "option 4": "Decide which tests should be automated",
+    "question": "Which of the following is a not a key task of a tester?",
+    "option 1": "Writing test cases",
+    "option 2": "Identify bugs"
+  },
+  {
+    "answerkey": "3",
+    "option 3": "Unit testing",
+    "option 4": "Regression testing",
+    "question": "Which type of testing is done by JUnit?",
+    "option 1": "System testing",
+    "option 2": "Integration testing"
+  },
+  {
+    "answerkey": "2",
+    "option 3": "Appium",
+    "option 4": "Postman",
+    "question": "Which is unit testing platform?",
+    "option 1": "testNG",
+    "option 2": "JUnit"
+  },
+  {
+    "answerkey": "1",
+    "option 3": "Appium",
+    "option 4": "nothing",
+    "question": "Where POM is mandatory?",
+    "option 1": "testNG",
+    "option 2": "JUnit"
+  },
+  {
+    "answerkey": "4",
+    "option 3": "for nothing",
+    "option 4": "1 and 2",
+    "question": "Why SQA is important?",
+    "option 1": "for business purpose",
+    "option 2": "for quality purpose"
+  },
+  {
+    "answerkey": "2",
+    "option 3": "Open box testing",
+    "option 4": "Clear box testing",
+    "question": "White box testing is not called as ________?",
+    "option 1": "Glass box testing",
+    "option 2": "Closed box testing"
+  },
+  {
+    "answerkey": "4",
+    "option 3": "SDLC model",
+    "option 4": "Test type",
+    "question": "Functional testing is a ________?",
+    "option 1": "Test design technique",
+    "option 2": "Test level"
+  }
+]
